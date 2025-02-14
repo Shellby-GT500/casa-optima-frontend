@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/casa-optima-frontend/static/css/main.bad9bd34.css",
+    "main.js": "/casa-optima-frontend/static/js/main.517b99b3.js",
+    "static/js/488.f482ca64.chunk.js": "/casa-optima-frontend/static/js/488.f482ca64.chunk.js",
+    "static/media/marina-vilamoura.png": "/casa-optima-frontend/static/media/marina-vilamoura.1be5e11daa08678fd5c8.png",
+    "static/media/logo-png.png": "/casa-optima-frontend/static/media/logo-png.bc9629ba19773a5cdd08.png",
+    "static/media/inauguração.png": "/casa-optima-frontend/static/media/inauguração.410e2994cac6afe4415e.png",
+    "static/media/banner-casa-optima.png": "/casa-optima-frontend/static/media/banner-casa-optima.2eff0560bc6f57bd8cb0.png",
+    "static/media/nossa-experiencia.png": "/casa-optima-frontend/static/media/nossa-experiencia.96e28c11bf5aef6b4e1b.png",
+    "static/media/team-casa-optima.png": "/casa-optima-frontend/static/media/team-casa-optima.ab48a54228506de36273.png",
+    "static/media/gelatos-v2.png": "/casa-optima-frontend/static/media/gelatos-v2.9762dc9069db6874610f.png",
+    "static/media/loja.png": "/casa-optima-frontend/static/media/loja.1139f50d51bf6863243c.png",
+    "static/media/nosso-metodo.png": "/casa-optima-frontend/static/media/nosso-metodo.d876c589a148fd004cbf.png",
+    "static/media/Formazione.png": "/casa-optima-frontend/static/media/Formazione.7049c946b54bc9bc72b7.png",
+    "static/media/logo-sulcones-png.png": "/casa-optima-frontend/static/media/logo-sulcones-png.ed1f7c9e8a0c3465ba67.png",
+    "index.html": "/casa-optima-frontend/index.html",
+    "main.bad9bd34.css.map": "/casa-optima-frontend/static/css/main.bad9bd34.css.map",
+    "main.517b99b3.js.map": "/casa-optima-frontend/static/js/main.517b99b3.js.map",
+    "488.f482ca64.chunk.js.map": "/casa-optima-frontend/static/js/488.f482ca64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad9bd34.css",
+    "static/js/main.517b99b3.js"
+  ]
+}
