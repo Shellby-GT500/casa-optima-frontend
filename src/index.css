@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.transparent-bg {
+  background-color: transparent;
+  display: inline-block;
+}
+
+body {
+  background-color: #ffd6d6;
+}
+
+.bg-ffc8be {
+  background-color: #ffb1a223;
+}
+
+.section-divider {
+  background: linear-gradient(to right, #ffa391, #fd8872);
+  height: 4px;
+  margin: 2rem 0;
+}
