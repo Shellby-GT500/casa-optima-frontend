@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/casa-optima-frontend/static/css/main.bad9bd34.css",
-    "main.js": "/casa-optima-frontend/static/js/main.517b99b3.js",
+    "main.js": "/casa-optima-frontend/static/js/main.86402a97.js",
     "static/js/488.f482ca64.chunk.js": "/casa-optima-frontend/static/js/488.f482ca64.chunk.js",
     "static/media/marina-vilamoura.png": "/casa-optima-frontend/static/media/marina-vilamoura.1be5e11daa08678fd5c8.png",
     "static/media/logo-png.png": "/casa-optima-frontend/static/media/logo-png.bc9629ba19773a5cdd08.png",
@@ -16,11 +16,11 @@
     "static/media/logo-sulcones-png.png": "/casa-optima-frontend/static/media/logo-sulcones-png.ed1f7c9e8a0c3465ba67.png",
     "index.html": "/casa-optima-frontend/index.html",
     "main.bad9bd34.css.map": "/casa-optima-frontend/static/css/main.bad9bd34.css.map",
-    "main.517b99b3.js.map": "/casa-optima-frontend/static/js/main.517b99b3.js.map",
+    "main.86402a97.js.map": "/casa-optima-frontend/static/js/main.86402a97.js.map",
     "488.f482ca64.chunk.js.map": "/casa-optima-frontend/static/js/488.f482ca64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bad9bd34.css",
-    "static/js/main.517b99b3.js"
+    "static/js/main.86402a97.js"
   ]
 }
